@@ -1,0 +1,6 @@
+
+addon_name="F4mTester"
+addon_id="plugin.video.f4mTester"
+dir="special://home/addons/plugin.video.f4mTester"
+url_zip="https://raw.githubusercontent.com/OnePlayHD/OneRepo/master/ZipFiles/plugin.video.f4mTester/plugin.video.f4mTester-2.7.9.zip"
+description="Addon para reprodução de canais com estabilidade"
