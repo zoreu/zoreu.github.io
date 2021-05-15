@@ -1,5 +1,5 @@
 name="Build Madnox"
-url="https://www.mediafire.com/file/918a7oaq22hv6ax/Madnox-Build.zip/file"
+url="https://www.mediafire.com/file/jz6me8oqnztlbnq/Build_Madnox.zip/file"
 iconimage="https://i.imgur.com/AH4gN5y.jpg"
 fanart="https://i.imgur.com/AH4gN5y.jpg"
 description="Build com skin Madnox"
