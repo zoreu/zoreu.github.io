@@ -1,5 +1,5 @@
 name="Build Madnox"
-url="https://www.mediafire.com/file/lba7grebsypruyd/Build_Madnox.zip/file"
+url="https://www.mediafire.com/file/iui5b2lki6nfh59/Build_Madnox.zip/file"
 iconimage="https://i.imgur.com/AH4gN5y.jpg"
 fanart="https://i.imgur.com/AH4gN5y.jpg"
 description="Build com skin Madnox e addons Luminart Studio, OnePlay, Play cine, Animes Play, Brazuca, Torrent Play, Reviva, Fenix e Apollo"
