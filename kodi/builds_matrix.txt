@@ -1,4 +1,4 @@
-name="Build Madnox - Kodi 19"
+name="Build Madnox Kodi 19"
 url="https://www.mediafire.com/file/iui5b2lki6nfh59/Build_Madnox.zip/file"
 iconimage="https://i.imgur.com/AH4gN5y.jpg"
 fanart="https://i.imgur.com/AH4gN5y.jpg"
