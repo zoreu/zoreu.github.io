@@ -6,3 +6,7 @@ name="Sofia Carson - Back to Beautiful" url="https://www.4shared.com/mp3/HUBBULr
 name="Tate McRae - You Broke Me First" url="https://www.4shared.com/mp3/rYOcWqRRea/AUD-20201117-WA0004.html"
 name="J. Balvin, Dua Lipa, Bad Bunny, Tainy - Un Dia (One Day)" url="https://www.4shared.com/mp3/3yX9MRtDea/AUD-20200913-WA0108.html"
 name="Masked Wolf - Astronaut In The Ocean" url="https://www.4shared.com/mp3/XxY0Px6uea/Masked_Wolf_-_Astronaut_in_the.html"
+name="Tiësto - The Business" url="https://www.4shared.com/mp3/4-tzqypIiq/Ti_sto_-_The_Business.html"
+name="JP Saxe - If the World Was Ending ft. Julia Michaels" url="https://www.4shared.com/mp3/phXPTJZIiq/JP_Saxe_-_If_The_World_Was_End.html"
+name="Desiigner- Panda" url="https://www.4shared.com/mp3/zqq5MaRgea/desiigner_.html"
+name="Tyga ft. Offset - Taste" url="https://www.4shared.com/mp3/tAOObhjjgm/AUD-20190206-WA0053.html"
