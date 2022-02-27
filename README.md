@@ -1,12 +1,5 @@
 ## Welcome to Zoreu
 
-Hello, welcome to my projects.
-
-### Hydra Repository for Kodi
-
-https://github.com/zoreu/hydrakodi
-
-
 
 ### Support or Contact
 
