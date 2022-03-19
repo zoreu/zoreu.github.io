@@ -1,0 +1,17 @@
+addon_name="Modulo Six"
+addon_id="script.module.six"
+dir="special://home/addons/script.module.six"
+url_zip="https://mirrors.kodi.tv/addons/krypton/script.module.six/script.module.six-1.13.0.zip"
+description="Modulo de suporte"
+
+addon_name="Modulo kodi-six"
+addon_id="script.module.kodi-six"
+dir="special://home/addons/script.module.kodi-six"
+url_zip="https://mirrors.kodi.tv/addons/krypton/script.module.kodi-six/script.module.kodi-six-0.0.7.zip"
+description="Modulo de suporte"
+
+addon_name="Elementum"
+addon_id="plugin.video.elementum"
+dir="special://home/addons/plugin.video.elementum"
+url_zip="http://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.65/plugin.video.elementum-0.1.65.zip"
+description="Addon para reprodução de videos por torrent"
